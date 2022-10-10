@@ -8,7 +8,6 @@ void main(){
   biodata obj=biodata();
   print('My name is ${obj.name}');
   print('My email ${obj.email}');
-}
-void func(){
-
+  print('My phone num ${obj.phone}');
+  print('My job ${obj.job}');
 }
