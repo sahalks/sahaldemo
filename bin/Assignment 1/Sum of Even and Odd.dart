@@ -8,4 +8,5 @@ void main(){
       osum += i;
     }
   }print("sum of odd $osum");
-  print("sum of even $esum");}
+  print("sum of even $esum");
+  }
